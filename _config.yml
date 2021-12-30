@@ -4,8 +4,8 @@
 
 # Site
 title: Jason Blog
-subtitle: '開發筆記'
-description: '有養一隻貓 ...XD'
+subtitle: '開發筆記&職涯紀錄'
+description: '<i class="fas fa-street-view"></i> Taoyuan,Taiwan<br/><i class="fas fa-laptop-code"></i> web developer<br/><i class="fab fa-js tIcon"></i><i class="fab fa-node tIcon"></i><i class="fab fa-vuejs"></i><i class="fab fa-css3-alt tIcon"></i>'
 keywords: 'blog'
 author: Jason Lien
 language: zh-TW
