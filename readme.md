@@ -24,4 +24,4 @@ categories: 職涯
 hexo serve
 
 發部指令:
-hexo clean & hexo deploy
+hexo clean && hexo deploy
