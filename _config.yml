@@ -105,3 +105,9 @@ deploy:
   type: git
   repo: https://github.com/lian0103/hexo-blog.git
   branch: gh-pages
+
+excerpt:
+  depth: 10
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true
