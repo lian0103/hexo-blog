@@ -49,6 +49,6 @@ hexo serve
 目前是使用google Firebase Hosting
 
 ```
-hexo g
-hexo clean && hexo deploy
+hexo clean && hexo g
+firebase deploy
 ```
