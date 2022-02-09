@@ -1,7 +1,7 @@
 ---
 title: leetcode之路
 tags: leetcode
-categories: 職涯 
+categories: 學習 
 ---
 
 從easy題開始，陸續更新。

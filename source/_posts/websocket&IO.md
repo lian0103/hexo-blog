@@ -1,7 +1,7 @@
 ---
 title: websocket 和 socketIO
 tags: websocket socketIO
-categories: 開發
+categories: 實作
 ---
 
 重新回顧websocket的概念和去年使用socketIO實作的簡易聊天室。也發現還不錯的youtube技術頻道~!

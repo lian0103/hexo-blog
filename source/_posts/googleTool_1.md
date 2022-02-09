@@ -1,7 +1,7 @@
 ---
 title: Google開發全家餐(一) Firebase
 tags: googleDev
-categories: 開發 
+categories: 實作 
 ---
 
 Google開發全家餐系列預計包含Google Firebase、Google AdSense、Google Analytics..。本篇主要在記錄使用Firebase部分功能。

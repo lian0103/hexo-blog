@@ -1,7 +1,7 @@
 ---
 title: 實作一個記帳APP
 tags: Quasar PWA
-categories: 開發 
+categories: 實作 
 ---
 
 # Account APP
