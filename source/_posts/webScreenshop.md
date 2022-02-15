@@ -1,9 +1,8 @@
 ---
 title: 學習-web畫面截圖
 tags: 學習
-categories: 技術 
 --- 
-# web畫面截圖功能實作
+
 把渲染在web畫面上指定的Dom，轉成一張圖片後下載。在實作上需要使用Html5 Canvas物件(理解成畫布)來繪製指定的Dom，再把Canvas物件轉換成Blob，再轉換成可供瀏覽器觸發下載的ObjectURL格式，並執行觸發下載動作。
 
 <!-- more --> 

@@ -1,7 +1,6 @@
 ---
-title: websocket 和 socketIO
-tags: websocket socketIO
-categories: 實作
+title: 學習-websocket 和 socketIO
+tags: 學習
 ---
 
 重新回顧websocket的概念和去年使用socketIO實作的簡易聊天室。也發現還不錯的youtube技術頻道~!
